@@ -1,2 +1,3 @@
-# mssc-eureka-server
+# Spring Boot Eureka Server
+
 Eureka Server for Beer Microservices
